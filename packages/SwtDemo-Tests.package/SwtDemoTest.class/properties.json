@@ -1,0 +1,14 @@
+{
+	"category" : "SwtDemo-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"demo" ],
+	"name" : "SwtDemoTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSwtDemo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSwtDemo",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
