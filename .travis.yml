@@ -2,9 +2,9 @@ language: erlang
 
 # Choose which platforms you want your builds run against (done in parallel)
 env:
-   - ST=Squeak-4.4
-   - ST=Squeak-4.5
-   - ST=Squeak-Trunk
+   - ST=Squeak-4.4 SCREENSHOT=true
+   - ST=Squeak-4.5 SCREENSHOT=true
+   - ST=Squeak-Trunk SCREENSHOT=true
 
 # Boilerplate ... should be no reason to edit the install section
 install:
