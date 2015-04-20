@@ -1,5 +1,5 @@
 {
-	"category" : "BaselineOfSwtDemo",
+	"category" : "SWTDemo-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BaselineOfSwtDemo",
+	"name" : "SWTDemo",
 	"pools" : [
 		 ],
-	"super" : "BaselineOf",
+	"super" : "Object",
 	"type" : "normal" }
