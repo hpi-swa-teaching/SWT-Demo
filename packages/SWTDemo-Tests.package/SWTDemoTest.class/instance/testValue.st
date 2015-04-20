@@ -1,3 +1,3 @@
 testing
 testValue
-	self assert: self demo getValue = 1234
+	self assert: self demo getValue = 5678
