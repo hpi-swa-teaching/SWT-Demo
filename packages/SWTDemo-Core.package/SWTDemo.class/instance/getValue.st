@@ -1,3 +1,3 @@
 accessing
 getValue
-	^ 1234
+	^ 5678
