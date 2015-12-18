@@ -4,9 +4,7 @@ sudo: false
 smalltalk:
   - Squeak-trunk
 
-baseline:
-  - SWTDemo
-  - SWTDemo2
+baseline: SWTDemo
 
 os:
   - linux
