@@ -3,17 +3,17 @@ sudo: false
 
 smalltalk:
   - Squeak-trunk
-  - Squeak-5.0
-  - Squeak-4.6
 
 baseline:
   - SWTDemo
 
 os:
   - linux
-  - osx
 
 env:
   global:
     - BASELINE_GROUP="TravisCI"
     - PACKAGES="packages"
+
+before_install:
+  - printenv
