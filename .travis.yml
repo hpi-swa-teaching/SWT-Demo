@@ -6,6 +6,7 @@ smalltalk:
 
 baseline:
   - SWTDemo
+  - SWTDemo2
 
 os:
   - linux
