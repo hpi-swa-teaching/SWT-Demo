@@ -17,3 +17,5 @@ env:
 
 before_install:
   - printenv
+  - cd "$SMALLTALK_CI_HOME"
+  - ls -lisa
