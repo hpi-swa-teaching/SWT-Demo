@@ -15,7 +15,4 @@ env:
     - BASELINE_GROUP="TravisCI"
     - PACKAGES="packages"
 
-before_install:
-  - printenv
-  - cd "$SMALLTALK_CI_HOME"
-  - ls -lisa
+script: $SMALLTALK_CI_HOME/run.sh -v
