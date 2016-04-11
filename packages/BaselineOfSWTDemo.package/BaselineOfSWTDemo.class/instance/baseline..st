@@ -9,5 +9,4 @@ baseline: spec
                 package: 'SWTDemo-Tests' with: [ spec requires: #('default') ].
             spec
                 group: 'default' with: #('SWTDemo-Core');
-                group: 'Tests' with: #('SWTDemo-Tests');
-                group: 'TravisCI' with: #('Tests') ]
+                group: 'Tests' with: #('SWTDemo-Tests') ]
