@@ -1,3 +1,0 @@
-accessing
-getAnotherValue
-	^ 42

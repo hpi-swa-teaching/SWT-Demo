@@ -1,10 +1,11 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #baseline : 'SWTDemo',
+      #baseline : 'Counter',
       #directory : 'packages',
-      #load : 'Tests',
-      #platforms : [ #squeak ]
+      #platforms : [ #squeak ],
+      #load : [ 'tests' ],
+      #useLatestMetacello : true
     }
   ]
 }
