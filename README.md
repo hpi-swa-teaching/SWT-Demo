@@ -1,5 +1,5 @@
 SWT-Demo
 =======
-[![Build Status](https://travis-ci.org/hpi-swa-teaching/SWT-Demo.svg?branch=master)](https://travis-ci.org/hpi-swa-teaching/SWT-Demo)
+[![CI](https://github.com/hpi-swa-teaching/SWT-Demo/workflows/CI/badge.svg?branch=master)](https://github.com/hpi-swa-teaching/SWT-Demo/actions)
 
-Minimal Squeak project which is tested by [Travis CI](https://travis-ci.org/hpi-swa-teaching/SWT-Demo).
+Minimal Squeak project tested with a [GitHub action](https://github.com/hpi-swa-teaching/SWT-Demo/actions).
