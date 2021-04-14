@@ -1,4 +1,4 @@
 as yet unclassified
 hello
 
-	Transcript showln: 'hello!'
+	Transcript showln: 'hello'
