@@ -1,4 +1,4 @@
-as yet unclassified
+greetings
 hello
 
 	Transcript showln: 'hello!'
